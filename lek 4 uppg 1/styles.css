@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-image: url('showcase.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+}
+
+.artikel {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.artikel img {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.sidfot {
+    background-image: url('logo-html-css-js.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    margin-top: 40px;
+}
